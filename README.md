@@ -33,7 +33,3 @@ Aplicación móvil en Kotlin conectada a Firebase para monitoreo ambiental de in
 - Email: javierct1405@gmail.com
 - LinkedIn: www.linkedin.com/in/francisco-javier-cordoba-tufiño-4724b1410
 - GitHub: javierct1405
-
-- Email: javierct1405@gmail.com
-- LinkedIn: coloca aquí tu enlace
-- GitHub: coloca aquí tu enlace
