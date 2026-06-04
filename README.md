@@ -1,7 +1,7 @@
 # Hola, soy Francisco Javier Cordoba Tufiño 
 
 Soy estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro, 
-con interés en desarrollo backend, bases de datos, Business Intelligence, 
+con interés en desarrollo backend, frontend, bases de datos, Business Intelligence, 
 análisis de datos y soluciones tecnológicas orientadas a la toma de decisiones.
 
 ## Sobre mí
